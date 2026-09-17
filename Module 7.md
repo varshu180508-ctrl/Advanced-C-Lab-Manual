@@ -7,7 +7,7 @@ Declare structure eligible with age (integer) and n (character array)
 Declare variable e of type eligible
 Input age and name using scanf, store in e
 If e.age <= 6
-Print "Vaccine Eligibility: No" Else
+Print "Vaccine Eligibility: No" Else.
 Print "Vaccine Eligibility: Yes"
 Print details (e.age, e.n)
 Return 0
